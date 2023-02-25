@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class BodyType {
+public enum BodyType {
+    SEDAN, HATCHBEK, KROSSOVER, VNEDOROZHNIK, UNIVERSAL;
+
 }
